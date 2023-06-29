@@ -1,0 +1,39 @@
+button{
+	background-color: red;
+	padding: 10px;
+	font-weight: bold;
+
+}
+input{
+	width: 220px;
+	height: 30px;
+}
+.bg{
+	background-color: ghostwhite;
+}
+#ab{
+    background-color: yellow;
+    
+    width: 100px;
+    height: 50px; 
+}
+#cd
+{
+	background-color: seagreen;
+	
+	width: 100px;
+    height: 50px;
+}
+#ef
+{
+	background-color: darkgrey;
+	
+	width: 100px;
+    height: 50px;
+}
+#de{
+	background-color: skyblue;
+	
+	width: 100px;
+	height:50px;
+}
